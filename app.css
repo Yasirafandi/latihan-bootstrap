@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#navbar {
+    background-color: #52A8A1;
+    font-size: 1.5rem;
+}
+#brand-icon {
+    width: 3rem;
+}
+#dropdown-navbar {
+    background-color: #59B0AA;
+}
+#dropdown-navbar .dropdown-item:hover{
+    background-color: #52A8A1;
+}
