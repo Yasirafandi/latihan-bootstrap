@@ -24,6 +24,7 @@ main .sidebar {
     background-color: #4d6072;
     flex: 1 2 15%;
 }
+
 main .content {
     background-color: rgb(220, 224, 224);
     flex: 2 1 85%;
